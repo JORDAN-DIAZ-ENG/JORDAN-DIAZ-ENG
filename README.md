@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan Diaz</h1>
 <h3 align="center">Master's Student at Florida Interactive Entertainment Academy</h3>
 
-- 📄 Know about my experiences [https://ccee2467-8b92-468d-bf20-4cca6dd567a3.filesusr.com/ugd/c010fa_d1eca3cd105d413a88548c921113906a.pdf](Link To My Resume)
+- 📄 Know about my experiences [https://ccee2467-8b92-468d-bf20-4cca6dd567a3.filesusr.com/ugd/c010fa_d1eca3cd105d413a88548c921113906a.pdf](MyResume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
